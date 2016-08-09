@@ -1,0 +1,2 @@
+# CameraAForgeNet
+使用AForge控制摄像头用于拍摄单帧照片
